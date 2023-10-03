@@ -93,7 +93,7 @@ class _LoginPgeState extends State<LoginPge> {
                     builder: (context) => RegisterPage(),
                   ));
             },
-            child: Text('nextpage'))
+            child: Text('Nexxxxt'))
       ]),
     );
   }
